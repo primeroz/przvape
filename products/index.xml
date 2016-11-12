@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on My New Hugo Site</title>
+    <link>https://primeroz.github.io/przvape/products/index.xml</link>
+    <description>Recent content in Products on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2016 20:43:43 +0000</lastBuildDate>
+    <atom:link href="https://primeroz.github.io/przvape/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tobeco Velocity</title>
+      <link>https://primeroz.github.io/przvape/products/TobecoVelocity/</link>
+      <pubDate>Sat, 12 Nov 2016 20:43:43 +0000</pubDate>
+      
+      <guid>https://primeroz.github.io/przvape/products/TobecoVelocity/</guid>
+      <description>&lt;p&gt;This is just a &lt;strong&gt;Test&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the tobeco velocity clone
+&lt;/p&gt;
+
+&lt;p&gt;AA BB CC&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/FcxNiFhNUN4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
